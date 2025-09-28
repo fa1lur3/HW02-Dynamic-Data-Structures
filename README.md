@@ -1,1 +1,2 @@
-# HW02-Dynamic-Data-Structures
+really fun project
+really jank
